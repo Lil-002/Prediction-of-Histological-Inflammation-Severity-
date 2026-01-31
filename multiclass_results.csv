@@ -1,0 +1,5 @@
+Model,Feature Set,Accuracy Mean,Accuracy Std
+LogisticRegression,MultiClass - All features,0.5556319407720782,0.03829976605562248
+RandomForest,MultiClass - All features,0.6865150713907986,0.058284969386853805
+LogisticRegression,MultiClass - Top 10 features,0.5819143310417768,0.08068813169767648
+RandomForest,MultiClass - Top 10 features,0.6440507667900581,0.058844323243962826
